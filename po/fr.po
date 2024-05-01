@@ -2,14 +2,15 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Julien Humbert <julroy67@gmail.com> 2022
+# Wedone <wedoneofficiel@outlook.fr> 2024
 msgid ""
 msgstr ""
 "Project-Id-Version: Dash to Dock\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-09 17:42-0700\n"
 "PO-Revision-Date: 2019-12-07 16:52+0900\n"
-"Last-Translator: Julien Humbert <julroy67@gmail.com>\n"
+"Last-Translator: Wedone <wedoneofficiel@outlook.fr>\n"
 "Language-Team: Jean-Baptiste Le Cz <jb.lecoz@gmail.com>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -30,15 +31,15 @@ msgstr "Masquage automatique intelligent"
 
 #: appIcons.js:1019
 msgid "Launch using Integrated Graphics Card"
-msgstr ""
+msgstr "Lancement à l'aide d'une carte graphique intégrée"
 
 #: appIcons.js:1020
 msgid "Launch using Discrete Graphics Card"
-msgstr ""
+msgstr "Lancer en utilisant une carte graphique discrète"
 
 #: appIcons.js:1049
 msgid "Unpin"
-msgstr ""
+msgstr "Épingler"
 
 #: appIcons.js:1050
 #, fuzzy
@@ -47,7 +48,7 @@ msgstr "Afficher les applications favorites"
 
 #: appIcons.js:1057
 msgid "Pin to Dash"
-msgstr ""
+msgstr "Épingler au tableau de bord"
 
 #: appIcons.js:1058
 #, fuzzy
@@ -68,12 +69,12 @@ msgstr "Quitter"
 #. can also translate the full message if this fits better your language.
 #: appIcons.js:1336
 msgid "Settings"
-msgstr ""
+msgstr "Paramètres"
 
 #: locations.js:884
 #, javascript-format
 msgid "Failed to launch “%s”"
-msgstr ""
+msgstr "Échec du lancement de "%s""
 
 #: Settings.ui:22
 #, fuzzy
@@ -150,7 +151,7 @@ msgstr "Activer un fond brillant à la Unity 7"
 
 #: Settings.ui:138
 msgid "Glossy"
-msgstr ""
+msgstr "Brillant"
 
 #: Settings.ui:148
 #, fuzzy
@@ -179,7 +180,7 @@ msgstr "Épaisseur de la bordure"
 
 #: Settings.ui:223
 msgid "Apps"
-msgstr ""
+msgstr "Apps"
 
 #: Settings.ui:237
 #, fuzzy
@@ -213,7 +214,7 @@ msgstr "Afficher des aperçus de fenêtres"
 
 #: Settings.ui:303
 msgid "Focused Apps Always Visible"
-msgstr ""
+msgstr "Applications ciblées toujours visibles"
 
 #: Settings.ui:313
 #, fuzzy
@@ -229,11 +230,11 @@ msgstr ""
 
 #: Settings.ui:323
 msgid "Move Apps Icon As First Icon"
-msgstr ""
+msgstr "Déplacer l'icône des applications comme première icône"
 
 #: Settings.ui:333
 msgid "Animate Opening Apps Grid"
-msgstr ""
+msgstr "Animer la grille d'ouverture des applications"
 
 #: Settings.ui:345
 #, fuzzy
@@ -247,15 +248,15 @@ msgstr "Afficher des aperçus de fenêtres"
 
 #: Settings.ui:364
 msgid "Mounted Only"
-msgstr ""
+msgstr "Monté uniquement"
 
 #: Settings.ui:374
 msgid "Include Network Devices"
-msgstr ""
+msgstr "Inclure les périphériques réseau"
 
 #: Settings.ui:384
 msgid "Isolate Windows From File Manager"
-msgstr ""
+msgstr "Isoler Windows du gestionnaire de fichiers"
 
 #: Settings.ui:400
 #, fuzzy
@@ -274,7 +275,7 @@ msgstr "Isoler les moniteurs."
 
 #: Settings.ui:446
 msgid "Window Preview Size Scale"
-msgstr ""
+msgstr "Fenêtre Aperçu Taille Échelle"
 
 #: Settings.ui:477
 #, fuzzy
@@ -335,7 +336,7 @@ msgstr ""
 
 #: Settings.ui:614
 msgid "Shrink Dock"
-msgstr ""
+msgstr "Dock rétractable"
 
 #: Settings.ui:615
 msgid "Save space reducing padding and border radius."
@@ -413,7 +414,7 @@ msgstr "Carrés"
 
 #: Settings.ui:758
 msgid "Show Overview On Logon"
-msgstr ""
+msgstr "Afficher la vue d'ensemble lors de l'ouverture de session"
 
 #: Settings.ui:772
 msgid "About"
@@ -431,11 +432,11 @@ msgstr "Version : "
 
 #: Settings.ui:820
 msgid "Original Author"
-msgstr ""
+msgstr "Auteur Original"
 
 #: Settings.ui:840
 msgid "Authors"
-msgstr ""
+msgstr "Auteurs"
 
 #: Settings.ui:874
 msgid ""
@@ -490,7 +491,7 @@ msgstr ""
 
 #: Settings.ui:1002
 msgid "Keyboard Shortcut"
-msgstr ""
+msgstr "Raccourcis Clavier"
 
 #: Settings.ui:1003
 #, fuzzy
